@@ -35,9 +35,12 @@ cd TCP-Stream-Reassembler
 mkdir build && cd build
 cmake ..
 make
-Run Tests
-
+```
+To Run Tests:
+```bash
 ctest
+```
+
 📈 Use Cases
 Educational simulation of TCP internals
 
