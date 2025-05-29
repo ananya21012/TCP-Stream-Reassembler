@@ -19,26 +19,6 @@ This project was implemented as part of a **Computer Networks** assignment at II
 - **`TCPReceiver`**: Manages TCP state and interacts with the reassembler.
 - **`WrappingInt32`**: Implements logic for 32-bit wrapping sequence numbers.
 
-## 📂 Directory Structure
-├── include/
-│ ├── byte_stream.hh
-│ ├── stream_reassembler.hh
-│ ├── tcp_receiver.hh
-│ └── wrapping_integers.hh
-├── src/
-│ ├── byte_stream.cc
-│ ├── stream_reassembler.cc
-│ ├── tcp_receiver.cc
-│ └── wrapping_integers.cc
-├── tests/
-│ ├── byte_stream_test.cc
-│ ├── stream_reassembler_test.cc
-│ ├── tcp_receiver_test.cc
-│ └── wrapping_integers_test.cc
-├── CMakeLists.txt
-└── README.md
-
-
 
 ## 🛠️ Build Instructions
 
