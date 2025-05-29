@@ -38,9 +38,7 @@ This project was implemented as part of a **Computer Networks** assignment at II
 ├── CMakeLists.txt
 └── README.md
 
-bash
-Copy
-Edit
+
 
 ## 🛠️ Build Instructions
 
@@ -58,9 +56,7 @@ mkdir build && cd build
 cmake ..
 make
 Run Tests
-bash
-Copy
-Edit
+
 ctest
 📈 Use Cases
 Educational simulation of TCP internals
