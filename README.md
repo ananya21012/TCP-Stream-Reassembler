@@ -42,20 +42,15 @@ ctest
 ```
 
 📈 Use Cases
-Educational simulation of TCP internals
-
-Byte stream assembly and reliability analysis
-
-Testbed for implementing TCP-like behaviors
+- Educational simulation of TCP internals
+- Byte stream assembly and reliability analysis
+- Testbed for implementing TCP-like behaviors
 
 📚 Related Topics
-TCP Segment Reordering
-
-Stream-based Data Transmission
-
-Network Protocol Simulation
-
-Byte-wise Buffer Management
+- TCP Segment Reordering
+- Stream-based Data Transmission
+- Network Protocol Simulation
+- Byte-wise Buffer Management
 
 📄 License
 MIT License
